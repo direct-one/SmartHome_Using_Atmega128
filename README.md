@@ -31,6 +31,6 @@ ATmega MCU를 기반으로 다중 센서(초음파, 온습도, 조도)를 활용
 5. **조도 판별:** 위 과정과 독립적으로 ADC 값을 읽어 주변이 어두우면 보조 LED를 점등.
 
 ## 🚀 개발 환경 (Environment)
-- **MCU:** ATmega128 (추정)
+- **MCU:** ATmega128
 - **Clock:** 16 MHz (`F_CPU 16000000UL`)
 - **IDE/Compiler:** Microchip Studio / AVR-GCC
